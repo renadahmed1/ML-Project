@@ -1,0 +1,4 @@
+Dataset,Model,Best Params,CV F1,Train Accuracy,Accuracy,Precision,Recall,F1,Tuning Time (s)
+Raisin,Logistic Regression,{'C': 1},0.8637,0.8653,0.8889,0.8938,0.8889,0.8885,1.3
+Raisin,SVM,"{'C': 1, 'kernel': 'rbf'}",0.8663,0.8667,0.8778,0.8871,0.8778,0.877,0.2
+Raisin,Random Forest,"{'max_depth': 20, 'n_estimators': 100}",0.8637,1.0,0.8667,0.8758,0.8667,0.8659,3.9
