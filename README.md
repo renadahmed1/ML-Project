@@ -34,11 +34,9 @@ F1 (macro) and confusion matrix.
 ## Project files
 ```
 project.py            main code: runs the whole experiment end to end
-requirements.txt      libraries needed
 data/                 the two datasets
 results/              output tables (CSV) and figures (PNG)
 report/Report.pdf     the scientific report
-report/make_report.py rebuilds the report PDF from the results
 ```
 
 ## How to run
